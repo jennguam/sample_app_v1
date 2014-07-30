@@ -38,6 +38,7 @@ group :test do
   # gem 'wdm', '0.1.0'
 end
 
+gem "figaro"
 gem 'sass-rails', '4.0.1'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
